@@ -55,7 +55,7 @@ The project follows a three-step structure:
 - **Sachs Dataset**: H2PC significantly outperformed MMHC in all metrics, especially with smaller data.
 - **Alarm Dataset**: MMHC was infeasible due to high complexity; H2PC succeeded with strong structural accuracy.
 
-> 🔬 Overall, **H2PC demonstrates robustness, scalability**, and **low false positive rates** — especially valuable for real-world applications where data may be sparse or partially observed.
+> 🔬 Overall, this implementation of **H2PC shows robustness, scalability**, **low false positive edges rates** and fast computation unlike in the original paper.
 
 ---
 
