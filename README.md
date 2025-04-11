@@ -26,6 +26,7 @@ This project presents the Python implementation and evaluation of the **H2PC alg
 ## 🛠️ Libraries
 
 - [PyAgrum](https://pyagrum.readthedocs.io/) – For BN learning and independence testing
+  (the idea of using pyagrum comes partially from this other implementation https://github.com/bastienchassagnol/algo_H2PC)
 - [PGMPY](https://pgmpy.org/) – For visualization and comparison with MMHC
 - [Graphviz](https://graphviz.org/) – For DAG visualizations
 
