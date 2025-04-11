@@ -1,5 +1,6 @@
 # 🧠 Developing H2PC for Bayesian Network Structure Learning: A Comparative Study
 (if you like it, leave a like!)
+
 **Author**: Lorenzo Venturi  
 **Program**: Master’s Degree in Artificial Intelligence, University of Bologna  
 📅 **Date**: April 1, 2025  
