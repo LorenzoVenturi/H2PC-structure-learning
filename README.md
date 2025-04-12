@@ -2,7 +2,7 @@
 
 **Author**: Lorenzo Venturi  
 **Program**: Master’s Degree in Artificial Intelligence, University of Bologna  
-**Course**: Fundamentals of AI Module 3, focus on probabilistic reasoning and Bayesian Networks
+**Course**: Fundamentals of AI, Module 3
 📅 **Date**: April 1, 2025  
 📧 **Contact**: lorenzo.venturi14@studio.unibo.it 
 
