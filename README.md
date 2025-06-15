@@ -11,7 +11,7 @@
 
 ## 📄 Abstract
 
-This project presents the Python implementation and evaluation of the **H2PC algorithm**, a hybrid approach for structure learning in **Bayesian Networks (BNs)**. It is compared against the well-known **Max-Min Hill-Climbing (MMHC)** algorithm. Tests are conducted using real benchmark datasets with varying complexity. Results highlight H2PC's superior accuracy and scalability, unexpectedly also in minimizing false positives and maintaining performance with limited data, unlike the original paper ( https://www.sciencedirect.com/science/article/abs/pii/S0957417414002553 )main problem of being really slow, the algorithm seems to be faster than Pgmpy's implementatio of MMHC and obtain lower false positive edges.
+This project presents the Python implementation and evaluation of the **H2PC algorithm**, a hybrid approach for structure learning in **Bayesian Networks (BNs)**. It is compared against the well-known **Max-Min Hill-Climbing (MMHC)** algorithm. Tests are conducted using real benchmark datasets with varying complexity. Results highlight H2PC's superior accuracy and scalability, unexpectedly also in minimizing false positives and maintaining performance with limited data, unlike the original paper ( https://www.sciencedirect.com/science/article/abs/pii/S0957417414002553 )main problem of being really slow, the algorithm seems to be faster than Pgmpy's implementation of MMHC and obtain lower false positive edges.
 
 ---
 
